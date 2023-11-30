@@ -2,4 +2,5 @@
 
 <h1>Demo Image</h1>
 <br/>
-![Alt text](relative%20path/to/chrome_i9dHIAyhma.png?raw=true "Title")
+
+https://i.ibb.co/0spDhnW/chrome-i9d-HIAyhma.png
